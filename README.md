@@ -111,7 +111,7 @@ cfg = Config(
     R=3,
     sim_time=20000
 )
-
+```
 You can change:
 
 - number of units (P, R)
