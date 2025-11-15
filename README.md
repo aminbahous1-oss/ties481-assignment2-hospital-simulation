@@ -14,7 +14,7 @@ Arrival → Preparation → Surgery (Operating Theatre) → Recovery → Exit
 
 
 Patients move through these stages sequentially.  
-If all units at a stage are occupied, the patient waits in the corresponding queue.
+If all units at a stage are occupied, the patient waits in the previous stage and doesn't release until a unit in the next stage becomes free.
 
 ### **Resources:**
 
