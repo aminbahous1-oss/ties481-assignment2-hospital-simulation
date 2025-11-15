@@ -137,7 +137,7 @@ README.md – This documentation
 
 ## 📌 7. Authors
 
-Mohammad Amine
+Mohammad Ghafouri Varzaneh
 
 Amine Bahous
 
