@@ -73,12 +73,13 @@ Metrics are collected through a monitoring process executed every **5 minutes**.
 ## 📌 4. Example Results
 A representative run (seed = 123) gives:
 
-simulation_time: 20000
-n_completed: 555
-avg_throughput_time: 3387.58
-avg_entrance_queue_length: 138.99
-or_utilization_exact: 0.55
-or_utilization_monitored: 0.55
+simulation_time: 20000 minutes
+n_completed: 555 patients
+avg_throughput_time: 3387.58 minutes
+avg_entrance_queue_length: 138.99 patients
+or_utilization_exact: 0.554 (fraction)
+or_utilization_monitored: 0.553 (fraction)
+
 
 
 ### **Interpretation**
