@@ -19,7 +19,7 @@ If all units at a stage are occupied, the patient waits in the previous stage an
 ### **Resources:**
 
 - **Preparation units**: 3  
-- **Operating Theatre (OR)**: 1  
+- **Operating Theatre (OR): O units (default O = 1)**  
 - **Recovery beds**: 3  
 
 ### **Stochastic modeling**  
@@ -108,6 +108,7 @@ cfg = Config(
     surg_mean=20,
     rec_mean=40,
     P=3,
+    O=1,
     R=3,
     sim_time=20000
 )
@@ -115,6 +116,8 @@ cfg = Config(
 You can change:
 
 - number of units (P, R)
+
+- number of operating theatre units (O)
 
 - service time means
 
