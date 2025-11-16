@@ -80,6 +80,7 @@ avg_entrance_queue_length: 138.99 patients
 or_utilization_exact: 0.554 (fraction)
 or_utilization_monitored: 0.553 (fraction)
 
+All time-based values are expressed in minutes.
 
 
 ### **Interpretation**
